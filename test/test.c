@@ -49,7 +49,7 @@ static const char *usage =
 #include <stdarg.h>
 #include <string.h>
 #include <sys/stat.h>
-#include <unistd.h>
+#include "unistd.h"
 
 #include "test.h"
 

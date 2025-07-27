@@ -1,6 +1,6 @@
 #include "colors.h"
 
-#include <unistd.h>
+#include "unistd.h"
 
 int kissat_is_terminal[3] = {0, -1, -1};
 

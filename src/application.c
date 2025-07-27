@@ -14,7 +14,7 @@
 
 #include <inttypes.h>
 #include <string.h>
-#include <unistd.h>
+#include "unistd.h"
 
 #define SOLVER_NAME "Kissat SAT Solver"
 
