@@ -1,5 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+> [!WARNING]
+> This is Kissat ported to Windows (branded with `-phoebe` in version), as an unofficial project, do not report bugs that produced by this port to upstream.
+
 The Kissat SAT Solver
 =====================
 

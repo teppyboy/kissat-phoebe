@@ -18,7 +18,7 @@ COMPILER="$CC $CFLAGS"
 VERSION="`cat ../VERSION 2>/dev/null`"
 [ "$VERSION" = "" ] && die "could not get 'VERSION'"
 cat <<EOF
-#define VERSION "$VERSION"
+#define VERSION "$VERSION-phoebe"
 #define COMPILER "$COMPILER"
 EOF
 #START-CUT-OUT-ID
