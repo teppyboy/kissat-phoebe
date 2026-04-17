@@ -16,7 +16,7 @@
 #ifdef STAND_ALONE_KITTEN
 /*------------------------------------------------------------------------*/
 
-#include "unistd.h"
+#include <unistd.h>
 
 // clang-format off
 

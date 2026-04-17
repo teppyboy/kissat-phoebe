@@ -18,9 +18,9 @@ double kissat_wall_clock_time (void) {
 #include <inttypes.h>
 #include <stdio.h>
 #include <string.h>
-#include "sys/resource.h"
+#include <sys/resource.h>
 #include <sys/types.h>
-#include "unistd.h"
+#include <unistd.h>
 
 double kissat_process_time (void) {
   struct rusage u;
